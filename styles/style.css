@@ -47,11 +47,10 @@
   line-height: 24.3px;
   text-underline-position: under;
   font-style: normal;
-  
 }
 .header__address {
-    display: grid;
-    justify-items: start;
+  display: grid;
+  justify-items: start;
   justify-self: end;
   align-self: center;
   padding-left: 355px;
